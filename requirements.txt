@@ -1,4 +1,4 @@
 streamlit
 pydub
 pandas
-pyaudioop
+audioop-lts
